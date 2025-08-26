@@ -1,32 +1,48 @@
-# 👋 Hi, I’m Zakaria Kubica  
+<h1 align="center" style="font-family:Arial Black; font-size:42px; color:#FF4C29;">
+  Zakaria Kubica
+</h1>
 
-🎓 Final-year **Computer & Electronic Engineering** @ University of Nottingham (UK & China)  
-💻 Exploring the intersection of **software · hardware · AI**  
-🌍 Global perspective from the **UK, China, and Middle East**  
-🎹 Currently building a **Python MIDI tool** that turns keyboard input into live note recognition  
+<p align="center" style="font-size:18px; color:#555;">
+  Final-year <b>Computer & Electronic Engineering</b> student  
+  University of Nottingham (UK & China campuses)
+</p>
 
----
-
-## ⚡ Snapshot
-- 🛠️ Python · C/C++ · MATLAB · Embedded Systems · Circuit Design  
-- 🌱 Learning: real-time systems & scalable software design  
-- 🚀 Interests: fintech · AI · global EV sector  
-
----
-
-## 📈 Cool Stat
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariakubica&theme=radical" height="165"/>
+<p align="center" style="font-size:16px; color:#777;">
+  Focused on <b>software engineering</b>, <b>embedded systems</b>, and <b>AI-driven solutions</b><br>
+  International background across the <b>UK</b>, <b>China</b>, and <b>Middle East</b><br>
+  Currently building a Python MIDI reader for <i>real-time note recognition</i>
 </p>
 
 ---
 
-## 🔗 Connect
+<h2 style="color:#FF4C29;">Snapshot</h2>
+
+- Core skills: <code>Python · C/C++ · MATLAB · Embedded Systems · Circuit Design</code>  
+- Exploring: <i>real-time systems & scalable software design</i>  
+- Interests: fintech · AI · global EV sector  
+
+---
+
+<h2 style="color:#FF4C29;">Highlight</h2>
+
+<b>Simple MIDI Reader</b> → Lightweight Python tool that detects and displays live MIDI notes on Windows.  
+<a href="https://github.com/zakariakubica/midi-reader">View Project</a>
+
+---
+
+<h2 style="color:#FF4C29;">Connect</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/zakaria-kubica-7a7693379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:zakariakubica@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zakaria-kubica-7a7693379/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:zakariakubica@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-⚡ *Available to start full-time in **June 2026**.*
+<p align="center" style="color:#555;">
+  <i>Available to start full-time in June 2026.</i>
+</p>
