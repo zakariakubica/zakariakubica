@@ -10,7 +10,7 @@
 <p align="center" style="font-size:16px; color:#777;">
   Focused on <b>software engineering</b>, <b>embedded systems</b>, and <b>AI-driven solutions</b><br>
   International background across the <b>UK</b>, <b>China</b>, and <b>Middle East</b><br>
-  Currently building a Python MIDI reader for <i>real-time note recognition</i>
+  Currently building a fractal-explorer-cpp
 </p>
 
 ---
