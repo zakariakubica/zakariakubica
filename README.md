@@ -26,8 +26,7 @@
 <h2 style="color:#FF4C29;">Highlight</h2>
 
 <b>Simple MIDI Reader</b> → Lightweight Python tool that detects and displays live MIDI notes on Windows.  
-<a href="https://github.com/zakariakubica/midi-reader">View Project</a>
-
+<a href="https://github.com/zakariakubica/midi-note-recognition">View Project</a>
 ---
 
 <h2 style="color:#FF4C29;">Connect</h2>
