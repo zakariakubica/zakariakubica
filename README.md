@@ -43,5 +43,5 @@
 ---
 
 <p align="center" style="color:#555;">
-  <i>Available to start full-time in June 2026.</i>
+  <i>Available to start full-time in Summer 2026.</i>
 </p>
