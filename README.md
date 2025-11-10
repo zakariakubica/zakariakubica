@@ -18,7 +18,7 @@
 <h2 style="color:#FF4C29;">Snapshot</h2>
 
 - Core skills: <code>Python · PostgreSQL · AWS · FastAPI </code>  
-- Exploring: <i>real-time systems & scalable software design</i>  
+- Exploring: <i>CNNs & scalable software design</i>  
 - Interests: AI · Machine Learning
 
 ---
