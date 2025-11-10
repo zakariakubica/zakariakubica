@@ -19,7 +19,7 @@
 
 - Core skills: <code>Python · C/C++ · MATLAB · Embedded Systems · OOP</code>  
 - Exploring: <i>real-time systems & scalable software design</i>  
-- Interests: fintech · AI · global EV sector  
+- Interests: AI · Machine Learning
 
 ---
 
