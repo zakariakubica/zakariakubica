@@ -8,7 +8,7 @@
 </p>
 
 <p align="center" style="font-size:16px; color:#777;">
-  Focused on <b>back-end software engineering</b>, <b>embedded systems</b>, and <b>AI-driven solutions</b><br>
+  Focused on <b>Back-end Python Software Engineering</b>, <b>Cloud Engineering</b>, and <b>AI-driven solutions</b><br>
   International background across the <b>UK</b>, <b>China</b>, and <b>Middle East</b><br>
   Currently building a Machine Learning Algorithm for Fault Detection in Power Networks
 </p>
