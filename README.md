@@ -25,8 +25,8 @@
 
 <h2 style="color:#FF4C29;">Highlight</h2>
 
-<b>Simple MIDI Reader</b> → Lightweight Python tool that detects and displays live MIDI notes on Windows.  
-<a href="https://github.com/zakariakubica/midi-note-recognition">View Project</a>
+<b>AI Ticket Scam Detection</b> → AI-powered ticket scam detection system.  
+<a href="https://github.com/zakariakubica/TrustTicket-AI">View Project</a>
 ---
 
 <h2 style="color:#FF4C29;">Connect</h2>
