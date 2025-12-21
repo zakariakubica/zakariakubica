@@ -29,7 +29,8 @@
 <a href="https://github.com/zakariakubica/video-game-learner">View Project</a>  
 <code>GPT-4V · PyTorch · Stable-Baselines3 · OpenCV · RL</code>
 
-<b>Power Network Fault Detection</b> → ML algorithm for anomaly detection in power grids (Final Year Project)  
+<b>Power Network Fault Detection</b> → ML algorithm for anomaly detection in power grids (Final Year Project)<br>
+<a href="https://github.com/zakariakubica/Final-Year-Project">View Project</a><br>
 <code>PyTorch · CNN · Time Series Analysis</code>
 
 ---
