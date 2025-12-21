@@ -8,25 +8,40 @@
 </p>
 
 <p align="center" style="font-size:16px; color:#777;">
-  Focused on <b>Back-end Python Software Engineering</b>, <b>Cloud Engineering</b>, and <b>AI-driven solutions</b><br>
+  Focused on <b>AI Engineering</b>, <b>Machine Learning Systems</b>, and <b>Multimodal AI</b><br>
   International background across the <b>UK</b>, <b>China</b>, and <b>Middle East</b><br>
-  Currently building a Machine Learning Algorithm for Fault Detection in Power Networks
+  Currently building production AI systems combining vision, language, and reinforcement learning
 </p>
 
 ---
 
 <h2 style="color:#FF4C29;">Snapshot</h2>
 
-- Core skills: <code>Python · PostgreSQL · AWS · FastAPI </code>  
-- Exploring: <i>CNNs & scalable software design</i>  
-- Interests: AI · Machine Learning · Cloud Engineering in AWS
+- Core skills: <code>Python · PyTorch · OpenAI API · Reinforcement Learning · Computer Vision · AWS</code>  
+- Exploring: <i>Multimodal AI systems & agentic workflows</i>  
+- Interests: LLM Engineering · Deep Learning · AI Research
 
 ---
 
-<h2 style="color:#FF4C29;">Highlight</h2>
+<h2 style="color:#FF4C29;">Featured Projects</h2>
 
-<b>AI Ticket Scam Detection</b> → AI-powered ticket scam detection system.  
-<a href="https://github.com/zakariakubica/TrustTicket-AI">View Project</a>
+<b>AI Game Learner</b> → AI that learns to play games by watching YouTube tutorials using GPT-4V and reinforcement learning  
+<a href="https://github.com/zakariakubica/video-game-learner">View Project</a>  
+<code>GPT-4V · PyTorch · Stable-Baselines3 · OpenCV · RL</code>
+
+<b>Power Network Fault Detection</b> → ML algorithm for anomaly detection in power grids (Final Year Project)  
+<code>PyTorch · CNN · Time Series Analysis</code>
+
+---
+
+<h2 style="color:#FF4C29;">Technical Experience</h2>
+
+**AI & Machine Learning**  
+Reinforcement Learning · Computer Vision · LLM Integration · Multimodal AI · Prompt Engineering
+
+**Software Engineering**  
+Python · FastAPI · PostgreSQL · Cloud Infrastructure · API Development
+
 ---
 
 <h2 style="color:#FF4C29;">Connect</h2>
