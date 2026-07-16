@@ -2,7 +2,7 @@
   Zakaria Kubica
 </h1>
 <p align="center" style="font-size:18px; color:#555;">
-  Final-year <b>Computer & Electronic Engineering</b> student  
+  <b>Computer & Electronic Engineering</b> Graduate  
   University of Nottingham (UK & China campuses)
 </p>
 <p align="center" style="font-size:16px; color:#777;">
