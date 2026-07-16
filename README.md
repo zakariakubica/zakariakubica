@@ -4,7 +4,7 @@
 <p align="center" style="font-size:18px; color:#555;">
   <b>Computer & Electronic Engineering Graduate</b>   
 </p>
-<p align="center" style="font-size:18px; color:#555;">
+<p align="center" style="font-size:18px; color:#344;">
   <b>University of Nottingham (UK & China campuses)</b>
 </p>
 
