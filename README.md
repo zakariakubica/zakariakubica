@@ -2,8 +2,8 @@
   Zakaria Kubica
 </h1>
 <p align="center" style="font-size:18px; color:#555;">
-  <b>Computer & Electronic Engineering</b> Graduate  
-  University of Nottingham (UK & China campuses)
+  <b>Computer & Electronic Engineering Graduate</b>   
+  <b>University of Nottingham (UK & China campuses)</b>
 </p>
 <p align="center" style="font-size:16px; color:#777;">
   Focused on <b>Backend Engineering</b>, <b>System Design</b>, and <b>Data Infrastructure</b><br>
